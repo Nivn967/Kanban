@@ -1,2 +1,1 @@
-316197227_314808288_318987005
-19
+In this project I implemented a management methodology that allows for organizing and prioritizing projects and their tasks
